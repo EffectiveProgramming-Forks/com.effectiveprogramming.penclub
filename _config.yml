@@ -1,5 +1,5 @@
 name: Effective Programming
-title: pen club
+title: penclub
 markdown: redcarpet
 pygments: true
 exclude: [run.sh]

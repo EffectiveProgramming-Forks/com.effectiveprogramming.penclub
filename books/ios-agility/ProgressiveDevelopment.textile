@@ -1,0 +1,12 @@
+---
+layout: page
+title: Progressive Development
+---
+
+* incremental
+* iterative
+
+h3. Stories
+
+* order
+* one step forward, two steps back, leap forward

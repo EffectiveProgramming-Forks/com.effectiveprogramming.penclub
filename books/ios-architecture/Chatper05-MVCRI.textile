@@ -1,0 +1,19 @@
+---
+layout: page
+title: Chapter 05 - MVC/R/I
+---
+
+h3. Whoa
+
+* mvc
+* presenter first
+* apple MVC
+* router
+* interpreter
+
+* go with me on that, reserve judgement until we're done
+* not a debate, not yet, rather a presentation
+* if everyone got this right away, there'd be no point to the talk
+* there are better ways to go about this
+* pick apart - but after the presentation
+* sit down with Paul Hawke ... and Micah and James

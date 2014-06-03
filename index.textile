@@ -14,25 +14,20 @@ Welcome to _Effective Programming's_ *Pen Club* &mdash; where the pen is more im
 
 The only rule: You *MUST* talk about *PEN CLUB!*
 
-Around here:
+The Pen Club Manifesto:
 
 # *Ideas* prevail
 # *Scribbles* rule
 # *Diagrams* dominate
-# *White boards* are required
+# *White boards* required
 # *Notes on napkins* are more important than lines of code
-# (and sometimes, we can't even read our own notes because we're going too damn fast ;-)
 
-and of course, *pens, pencils and markers* are required periphinalia!
+and of course *pens, pencils and markers* are required periphinalia!
 
 The Pen Club is cover for an _idea incubator._ Topics are generally about the business of software and discussions range from the entrepreneurial mindset to personal productivity. We'll be spilling our guts, opening our minds and pouring our souls into talks about the science and business behind thinking, building, shipping and tweaking software products. We'll talk about development, positioning, timing, succeeding, persistence, consistency, purpose, focus, longevity and a whole host of other topics yet to even be named!
 
-Yes, we ruminate a bit about pens &hellip; but it's all focussed on a dream team we'd love to stick above a coffee shop
+Yes, we ruminate a bit about pens &hellip; but it's all focussed on a dream team we'd love to stick above a coffee shop &hellip; or an old gas station with a two-bay garage &hellip; or an abandoned old fire station (too many HGTV reruns! :)
 
-* or an old gas station with a two-bay garage
-* or an abandoned old fire station :)
-* or &hellip;
-
-Tune in &mdash; above all else, this should be fun!
+Tune in &mdash; above all else this should be fun!
 
 </div>

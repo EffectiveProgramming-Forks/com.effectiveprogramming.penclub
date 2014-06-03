@@ -1,0 +1,42 @@
+---
+layout: page
+title: Chapter 02 - Preferences
+---
+
+h2. Highlights
+
+* bullets
+* analogies
+* use cases
+* challenges
+* code
+
+h2. Preferences
+
+h3. Symmetry
+
+* whomever presents, dismisses
+* btree diagram here - with children - show the present/dismiss symmetry
+* why? child should never dismiss itself - how was it presented
+* why make people think so much?
+* why make people read other parts of the code?
+* program defensively
+
+h3. Immutable
+
+* you can't protect the future code - but you can protect the code you write
+* make it self contained
+* pass copies out
+* give my daughter the original file -- or a pdf paper copy of my resume
+* give people a reference to read your email inbox or do you forward them a PDF (copy)
+* real world people, we don't pass references around, its not safe, you're opening yourself up
+* don't open yourself up!
+* don't worry about performance yet
+* database - use business objects, not entities
+* keep entities behind curtain, don't leak core data
+* draw the black box -- pass in structures, get strutures out
+* write extra code to translate between layers - but do not write code to manage state
+* flat, dumb, immutable objects are thread safe
+* less future thought if coded that way
+* sure, you CAN work it other ways -- but why leave that lingering
+* no comments

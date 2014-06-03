@@ -1,0 +1,87 @@
+---
+layout: page
+title: Chapter 03 - Layers
+---
+
+h2. General
+
+h3. Rules
+
+* push down
+* tell don't ask
+* tell the view what to display, view doesn't ask interactively
+* walk through the no of caveats of letting view request
+* what if view says [delegate items] objectAtIndex:i] for 700 items?
+* what if view decides to cache things? bad .... 
+* consider busy wait vs select
+* "tradeoffs for busy wait vs sleep":http://stackoverflow.com/questions/1107593/what-are-trade-offs-for-busy-wait-vs-sleep
+* *PREFER* to push, don't pull, tell, don't ask
+* daughter says "are we there yet?" ... "are we there yet?" ... "are we there yet?"
+* don't be chatty
+* just display what you're told, stop asking questions
+
+h3. Mapping
+
+* note that we're not yet mapping these objects to their iOS counterparts
+
+h2. Layers
+
+h3. Navigation
+
+* line across the top of the page
+
+h3. View Controllers
+
+* first class citizens in iOS
+* present, push, popover
+* view lifecycle
+* glorified views
+* ARC managers
+* SRP: factories - break up work into lots of managable chunks
+* self describing - no docs, no cognitive load, read it, use it all, done
+
+h3. Presenters / Routers / Interpreters
+
+* eventing
+* telephone dispatcher
+* operator
+* 911
+* stereo
+* traffic cop
+* router
+* event manager
+* has minimal logic, but it is very mechanical
+
+h3. Models
+
+* screen specific front for the logic you are looking at
+* manages business state of whatever the current screen is reflecting
+* no need for protocols - at least, not at the API level
+* NSObject will suffice as base class, not leaking anything
+
+h3. Views
+
+* replacable
+* can have very minimal, mechanical logic
+* tapping drop down arrow animates drop down to begin
+* protocols - why? what are we passing to the presenter?
+* UIView is leaky
+* remember, you're going to give this code to your daughter and then you are not going to be around
+* don't give them a loaded gun, give them a plastic copy, they have to hydrate it themselves
+
+h3. Managers
+
+* save an entity
+* do something with this object
+* get me that
+* can be multiple levels deep
+* kids can't actually shoot gun, they have to ask someone else to actually shoot the gun
+
+h3. Services
+
+* where you get it from
+* where you save it to
+* wrap low level calls
+* close to the metal
+* network, database
+

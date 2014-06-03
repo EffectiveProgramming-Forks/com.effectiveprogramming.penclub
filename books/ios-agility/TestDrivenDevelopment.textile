@@ -1,0 +1,21 @@
+---
+layout: page
+title: Test Driven Development
+---
+
+* TDD formalizes what we do naturally
+* TDD documents your thoughts
+
+* Try it, try to write code without, in your head, testing it as you go. Nobody does this.
+* TDD is simply not testing it in the UI.
+* TDD is another client
+
+* Is TDD really about design?
+* What about warning you when you are changing something?
+* Taken to the limit, TDD can thought of as backup
+* TDD runs a battery of test against the code - verifying that intent was kept
+* TDD is like the app is alive - but they are static tests that run everytime
+* TDD is an approximation to a live, running app.
+* TDD confirms that what you expected to be happening still is - even as the code changes - design aside.
+
+* Views are not object oriented beasts, we don't want to be injecting components into views

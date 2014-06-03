@@ -1,0 +1,87 @@
+---
+layout: page
+title: Chapter 01 - Analogies
+---
+
+h3. Introduction
+
+* undergrad in music, 8 years later, grad school
+* playing catchup in grad school, what to do?
+* read single topics across lots of books - triangulate, multiple teachers
+* look for subtleties
+
+One of my first ideas was to examine single topics across multiple programming books. I rationalized that buying lots of books to try and triangulate topics would result in finding that one explanation that would hit home. I often stayed late, I assisted other students and spoke with TAs whenever possible. I vividly remember sitting in Sally Goldman's office asking what must have seemed like elementary questions about algorithms and machine learning.
+
+* analogies
+* patterns
+* mnemonics
+
+Eventually I found something that worked for me. **Analogies.** I found that if I could take a comp sci topic and put it in layman's terms - find a real world use case that mapped very closely - I was golden. 
+
+Within those analogies analogies then, I discovered _patterns._ This was great, I quickly started looking for matching patterns as  mnemonics to help me remember what it is I'm supposed to do. I still remember 1999 when I had a hard time following GOF's "Design Patterns":http://en.wikipedia.org/wiki/Design_Patterns. Sometime around 2003 I distinctly recall arguing for the patterns Rod set forth in "J2EE Development without EJB":http://www.amazon.com/Expert-One-One-Development-without/dp/0764558315 before Spring was even introduced! I also remember nirvana as I worked through the bowling game in Uncle Bob's "Agile Software Development":http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445
+
+* C++
+* Java
+* iOS
+
+I started my development experience in grad school writing C and C++ in graduate school but found my Java skills were much more in demand in the public sector. I've gone through several different phases but in 2009 I made a switch to iOS and it is this that I wish to speak about today.
+
+h3. Universal Truths
+
+As you will find in this book - I like to use analogies, and then step back - looking for patterns and templates that map onto the problems at hand. I notice that some analogies work so well across domains that I start to believe they are universal truths.
+
+* not 100 the real thing
+* perspective
+* mind set
+* blink
+
+h3. Your Goal
+
+* your goal is too find a starting point
+* pick a point, a template from which to begin
+* let each app you work on from this day forward help you move that line to more or less complicated
+* don't defensively code for the most complicated app ever
+* 0 == == ** == 100
+* TRIVIAL << == >> COMPLICATED
+
+h3. My Goal
+
+* to explain and rationalize where I've landed
+* create a general set of rules
+* memorize general rules, not specific situations
+* minimize exceptions
+* exceptions indeed exist at the boundaries
+* could argue that overkill - or underkill - I'm fast at it now and it makes me no difference
+* I've conditioned myself, blink, instant recognition
+* You can grow your memory over time
+* If you've never done this before, you won't get it, it takes time
+* If everyone got to choose their entry level intuition for coding structure, I dare say you'd have a different structure for everyone in this room
+* it takes some blind faith at first before you can pass judgement
+* remember, the goal is to provide a start. you have to argue the exception
+* you don't look at every case as a unique circumstance - well, you can, but you first rule out the DEFAULT answer
+* you don't keep second guessig if it is the best, you just see if it will apply and if it does, you go with it
+
+h3. Analogies
+
+At some level, good code is about organization. Predictable locations for code. Recognizablility. Efficiency. Architecture is about the both the static and running code. How you both codify your intent as well as how the app actually behaves. Where does this live. Who does this work? Whos does this object get that information?
+
+h4. Hardware
+
+* the home theater
+* recording studio
+* the laptop
+* the desktop
+* 911
+* old telephnoe operator
+* admin assistant
+* support level 1
+* on call
+* restaurant, dairy queen, customer, cashier, hamburgler, ice cream
+
+h4. Peopleware
+
+* small business
+* medium business
+* large business
+
+Businesses have been around since the dawn of time. They've had a chance to organize.

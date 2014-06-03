@@ -1,0 +1,53 @@
+---
+layout: page
+title: Chapter 00 - Notes
+---
+
+* JUST DO IT
+* minimize cognitive load
+* learn to code to leave the least amount of cognitive load
+* ie: more work to pass immutable objects around, but less cognitive load, less to think about, play dumb
+
+* find your line, walk that line, don't generally pick easier things unless it blindingly obvious, stray from the line when you HAVE to.
+* minimize exceptions to the rule
+* don't hack - just minimize exceptions to the rule
+* decide on a slightly more complicated or different twist
+
+* Use cases
+* Challenges
+* Code examples
+
+* Comparisons to people and human organizations
+* Compare to organisms in the body
+* Compare to stereo
+* Compare to cleaning the house perpetually
+
+* You don't know what to do? Look around you. Look for something that works very well - does it map to your problem?
+* Notice that some solutions are dynamic - as the problem changes so must also the solution.
+* Rome fell - the old ways caught up to it.
+* Very important to realize that, everyday, your problem changes ever so slightly.
+
+* red / green / refactor
+* broke / fix / organize
+
+* consistency is king
+* favor immutablility
+* fewer lines of code
+* api's, .h files are self documenting
+* prefer protocols and interfaces to explicitly allow or disallow visibility into underlying impl
+* code not for you, but imagine giving this to your kid - will they root through the code to make changes or will you organize it for them before you leave
+* we all lay in the bed we make
+
+* go with me on that, reserve judgement until we're done
+* open your mind, believe it is so, try to understand it
+* work to condition your mind - look for patterns
+
+* I'm trying to give you something to hang your hat on.
+* Take it as far as it serves you.
+* Grow it. Shrink it.
+
+* Leaky designs - don't let them leak.
+* Core data in a black box
+* Business objects, no entities
+* Delegates without callbacks
+* Don't give away tableview

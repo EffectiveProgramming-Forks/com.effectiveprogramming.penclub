@@ -1,0 +1,11 @@
+---
+layout: page
+title: Eventing
+---
+
+h3. Delegation
+
+* don't return anything
+* think hard about sending anything
+* more general API to prefer an interface to retrieve data
+* less to think about .. JUST DO IT
